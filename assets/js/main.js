@@ -1,1 +1,0 @@
-console.log('Capstone site');
